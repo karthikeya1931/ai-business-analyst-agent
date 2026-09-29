@@ -16,8 +16,8 @@ def run_sql(query):
     query = query.strip()
 
     # Only allow SELECT statements
-    if not query.lower().startswith("select"):
-        raise ValueError("Only SELECT queries are allowed.")
+    if not query.lower().startswith("select") and not query.lower().startswith("with"):
+        raise ValueError("Only SELECT and WITH queries are allowed.")
 
     # Block potentially dangerous SQL commands
     forbidden = [

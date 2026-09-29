@@ -1,7 +1,7 @@
 from agent import run_agent
 
 
-question = "Which category has the highest total Return on Sales?"
+question = " Which products have the highest total profit?"
 
 answer = run_agent(question)
 

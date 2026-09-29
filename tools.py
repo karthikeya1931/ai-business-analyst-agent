@@ -23,27 +23,18 @@ def schema_tool():
 
 
 def sql_tool(query):
-    """
-    Executes a read-only SQL query.
-    Returns either the result or the database error.
-    """
-
     try:
-
         result = run_sql(query)
 
-        return result.to_string(index=False)
+        return {
+            "success": True,
+            "result": result
+        }
 
     except Exception as e:
 
-        return f"""
-SQL execution failed.
-
-Error:
-{str(e)}
-
-Query:
-{query}
-
-Correct the SQL and try again.
-"""
+        return {
+            "success": False,
+            "error": str(e),
+            "query": query
+        }
