@@ -1,7 +1,7 @@
 from agent import run_agent
 
 
-question = " Which products have the highest total profit?"
+question = "What is the maximum discount a sales representative is allowed to give without needing approval?"
 
 answer = run_agent(question)
 

@@ -1,4 +1,5 @@
 from database import get_schema, run_sql
+from rag import rag_tool as retrieve_policy_answer
 
 
 def schema_tool():
@@ -38,3 +39,7 @@ def sql_tool(query):
             "error": str(e),
             "query": query
         }
+
+
+def rag_tool(question):
+    return retrieve_policy_answer(question)
