@@ -7,7 +7,8 @@ def schema_tool():
     Returns a clean description of the database schema.
     """
 
-    schema = get_schema()
+    # Normalize metadata labels while preserving actual identifier spelling.
+    schema = get_schema().rename(columns=str.upper)
 
     output = []
 

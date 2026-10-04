@@ -1,7 +1,7 @@
 from agent import run_agent
 
 
-question = "What is the maximum discount a sales representative is allowed to give without needing approval?"
+question = "get the schema of the database and provide a clean description of the tables and columns"
 
 answer = run_agent(question)
 

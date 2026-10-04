@@ -1,0 +1,801 @@
+﻿Customer_ID,Postal_Code,City,Country,Score,Customer_Name
+1,78000,Versailles,France,76,Bill Van Buren
+2,60528,Frankfurt a.M.,Germany,74,Gerald Jackson
+3,75016,Paris,France,3,Harry Nixon
+4,97219,Portland,USA,25,Dwight Coolidge
+5,4179,Leipzig,Germany,87,Rutherford Roosevelt
+6,80805,München,Germany,65,Grover Grant
+7,98128,Seattle,USA,24,Grover Roosevelt
+8,82520,Lander,USA,27,Bill Roosevelt
+9,97201,Portland,USA,54,Calvin McKinley
+10,78000,Versailles,France,50,Dwight Jefferson
+11,75016,Paris,France,50,Ulysses Harding
+12,70563,Stuttgart,Germany,79,Rutherford Garfield
+13,75016,Paris,France,19,Jimmy Tyler
+14,24100,Bergamo,Italy,27,James Roosevelt
+15,67000,Strasbourg,France,83,Ronald Wilson
+16,59000,Lille,France,78,Martin Roosevelt
+17,78000,Versailles,France,86,Martin Kennedy
+18,68306,Mannheim,Germany,59,John Taft
+19,94117,San Francisco,USA,44,Bill Eisenhower
+20,87110,Albuquerque,USA,63,Ronald Coolidge
+21,44000,Nantes,France,38,Franklin Johnson
+22,44087,Münster,Germany,84,Benjamin Reagan
+23,44087,Münster,Germany,41,Benjamin Van Buren
+24,44000,Nantes,France,46,Ulysses Tyler
+25,14776,Brandenburg,Germany,13,James Cleveland
+26,52066,Aachen,Germany,36,Harry Truman
+27,80805,München,Germany,44,Chester Roosevelt
+28,67000,Strasbourg,France,0,Warren Roosevelt
+29,42100,Reggio Emilia,Italy,84,Millard Eisenhower
+30,59801,Butte,USA,41,Benjamin Madison
+31,14776,Brandenburg,Germany,57,Dwight Van Buren
+32,75016,Paris,France,50,Benjamin Buchanan
+33,69004,Lyon,France,88,Herbert Harrison
+34,24100,Bergamo,Italy,92,Woodrow Kennedy
+35,97201,Portland,USA,60,Benjamin Roosevelt
+36,59000,Lille,France,9,Ulysses Roosevelt
+37,24100,Bergamo,Italy,78,Dwight Eisenhower
+38,68306,Mannheim,Germany,26,Jimmy Washington
+39,97201,Portland,USA,7,Millard Clinton
+40,60528,Frankfurt a.M.,Germany,50,Jimmy Polk
+41,80805,München,Germany,33,Warren Harrison
+42,52066,Aachen,Germany,45,Andrew Adams
+43,10100,Torino,Italy,44,Calvin Buchanan
+44,97403,Eugene,USA,30,Andrew Van Buren
+45,67000,Strasbourg,France,64,Richard Wilson
+46,98034,Kirkland,USA,2,Zachary Lincoln
+47,98034,Kirkland,USA,6,Franklin Roosevelt
+48,42100,Reggio Emilia,Italy,69,Warren Clinton
+49,98034,Kirkland,USA,52,Dwight Jackson
+50,75016,Paris,France,78,Millard Monroe
+51,67000,Strasbourg,France,31,Jimmy Johnson
+52,24100,Bergamo,Italy,33,Franklin Buchanan
+53,75012,Paris,France,94,Thomas Ford
+54,59801,Butte,USA,0,Andrew Roosevelt
+55,42100,Reggio Emilia,Italy,25,Harry Jackson
+56,68306,Mannheim,Germany,37,Ulysses Eisenhower
+57,14776,Brandenburg,Germany,34,Millard Harrison
+58,44000,Nantes,France,72,Calvin Polk
+59,59000,Lille,France,47,Chester Adams
+60,82520,Lander,USA,29,Grover Carter
+61,4179,Leipzig,Germany,64,Thomas Hoover
+62,44000,Nantes,France,20,Rutherford Monroe
+63,70563,Stuttgart,Germany,85,Dwight Quincy
+64,99508,Anchorage,USA,68,Herbert Harrison
+65,97827,Elgin,USA,1,Harry Harding
+66,70563,Stuttgart,Germany,58,John Monroe
+67,42100,Reggio Emilia,Italy,0,Chester Quincy
+68,97201,Portland,USA,65,Rutherford Cleveland
+69,67000,Strasbourg,France,80,William Harrison
+70,51100,Reims,France,15,Ronald Adams
+71,97827,Elgin,USA,82,Dwight Monroe
+72,60528,Frankfurt a.M.,Germany,66,Warren Clinton
+73,31000,Toulouse,France,16,Millard Van Buren
+74,24100,Bergamo,Italy,86,Gerald Harrison
+75,69004,Lyon,France,28,Ronald Harrison
+76,31000,Toulouse,France,46,Rutherford Wilson
+77,1307,Cunewalde,Germany,72,Dwight Taylor
+78,98128,Seattle,USA,99,Franklin Johnson
+79,59000,Lille,France,74,Millard Reagan
+80,59000,Lille,France,3,William Harding
+81,75016,Paris,France,96,Martin Arthur
+82,97403,Eugene,USA,16,Rutherford Truman
+83,4179,Leipzig,Germany,19,Woodrow Jefferson
+84,69004,Lyon,France,43,Thomas Harding
+85,42100,Reggio Emilia,Italy,10,Richard Harrison
+86,13008,Marseille,France,92,Abraham Taft
+87,78000,Versailles,France,87,William Van Buren
+88,97201,Portland,USA,38,Rutherford Tyler
+89,69004,Lyon,France,38,Woodrow Roosevelt
+90,75012,Paris,France,46,Jimmy Jefferson
+91,69004,Lyon,France,12,George Adams
+92,52066,Aachen,Germany,19,Andrew Grant
+93,94117,San Francisco,USA,29,Thomas Hoover
+94,42100,Reggio Emilia,Italy,84,Franklin Harrison
+95,50739,Köln,Germany,2,Grover Quincy
+96,67000,Strasbourg,France,69,Andrew Grant
+97,1307,Cunewalde,Germany,24,Warren Truman
+98,70563,Stuttgart,Germany,6,Harry Tyler
+99,83720,Boise,USA,48,William Johnson
+100,75016,Paris,France,6,Grover Quincy
+101,75016,Paris,France,100,Ulysses Cleveland
+102,13008,Marseille,France,45,Jimmy Jackson
+103,97827,Elgin,USA,12,Chester Adams
+104,75016,Paris,France,24,Ronald Taylor
+105,51100,Reims,France,94,Chester Jackson
+106,83720,Boise,USA,2,Richard Arthur
+107,87110,Albuquerque,USA,85,Richard Johnson
+108,4179,Leipzig,Germany,84,Jimmy Taft
+109,60528,Frankfurt a.M.,Germany,69,Millard Harrison
+110,82520,Lander,USA,7,Ronald Hayes
+111,1307,Cunewalde,Germany,30,Grover Harrison
+112,59000,Lille,France,6,Jimmy Washington
+113,50739,Köln,Germany,17,Ulysses Fillmore
+114,75012,Paris,France,82,James Polk
+115,60528,Frankfurt a.M.,Germany,21,Martin Tyler
+116,44087,Münster,Germany,41,Abraham Polk
+117,94117,San Francisco,USA,87,Jimmy Washington
+118,50739,Köln,Germany,42,Bill Eisenhower
+119,87110,Albuquerque,USA,32,Richard Kennedy
+120,97219,Portland,USA,21,Rutherford Fillmore
+121,13008,Marseille,France,45,Thomas Jackson
+122,12209,Berlin,Germany,4,Grover Clinton
+123,69004,Lyon,France,50,Jimmy Roosevelt
+124,97827,Elgin,USA,65,Theodore Wilson
+125,94117,San Francisco,USA,19,Franklin Johnson
+126,42100,Reggio Emilia,Italy,56,William Hayes
+127,87110,Albuquerque,USA,26,Benjamin Washington
+128,31000,Toulouse,France,96,Ulysses Arthur
+129,70563,Stuttgart,Germany,76,Dwight Kennedy
+130,52066,Aachen,Germany,9,Jimmy Monroe
+131,75012,Paris,France,31,George Hayes
+132,97827,Elgin,USA,92,Bill Ford
+133,13008,Marseille,France,55,George Lincoln
+134,59000,Lille,France,41,Theodore Eisenhower
+135,82520,Lander,USA,58,Dwight McKinley
+136,44000,Nantes,France,12,Calvin Kennedy
+137,97403,Eugene,USA,24,Herbert Harrison
+138,50739,Köln,Germany,36,Rutherford Taft
+139,69004,Lyon,France,45,Chester Truman
+140,44000,Nantes,France,12,Warren Tyler
+141,70563,Stuttgart,Germany,33,Martin Hoover
+142,1307,Cunewalde,Germany,33,Zachary Harrison
+143,75012,Paris,France,20,Harry Harding
+144,50739,Köln,Germany,39,George Jefferson
+145,75016,Paris,France,1,Thomas Polk
+146,80805,München,Germany,84,Harry Harrison
+147,69004,Lyon,France,71,Lyndon Washington
+148,12209,Berlin,Germany,69,Ronald Kennedy
+149,59801,Butte,USA,26,Millard Arthur
+150,97403,Eugene,USA,58,Harry Nixon
+151,14776,Brandenburg,Germany,82,Franklin Kennedy
+152,1307,Cunewalde,Germany,0,Harry Carter
+153,1307,Cunewalde,Germany,20,Millard McKinley
+154,87110,Albuquerque,USA,88,Lyndon Monroe
+155,80805,München,Germany,0,Harry Johnson
+156,82520,Lander,USA,22,Dwight Grant
+157,70563,Stuttgart,Germany,90,Andrew Harrison
+158,82520,Lander,USA,11,John Buchanan
+159,75012,Paris,France,24,Andrew Taft
+160,83720,Boise,USA,89,Warren Garfield
+161,42100,Reggio Emilia,Italy,36,Rutherford Quincy
+162,69004,Lyon,France,39,James Monroe
+163,42100,Reggio Emilia,Italy,60,Dwight Reagan
+164,97827,Elgin,USA,97,Calvin Ford
+165,44000,Nantes,France,30,Gerald Ford
+166,68306,Mannheim,Germany,22,Millard Van Buren
+167,51100,Reims,France,52,Warren Roosevelt
+168,14776,Brandenburg,Germany,10,Harry Tyler
+169,51100,Reims,France,81,Chester Fillmore
+170,75012,Paris,France,88,Thomas Hayes
+171,67000,Strasbourg,France,68,James Truman
+172,97403,Eugene,USA,69,Bill Ford
+173,10100,Torino,Italy,21,Thomas Truman
+174,97403,Eugene,USA,45,Warren Hoover
+175,75016,Paris,France,55,Gerald Van Buren
+176,94117,San Francisco,USA,56,George Quincy
+177,60528,Frankfurt a.M.,Germany,66,John Roosevelt
+178,94117,San Francisco,USA,15,Jimmy Adams
+179,50739,Köln,Germany,65,Theodore Coolidge
+180,52066,Aachen,Germany,14,Chester Adams
+181,75012,Paris,France,5,Gerald Van Buren
+182,44000,Nantes,France,88,Gerald Jefferson
+183,97403,Eugene,USA,11,Warren Buchanan
+184,69004,Lyon,France,54,Calvin Van Buren
+185,24100,Bergamo,Italy,28,Andrew Grant
+186,82520,Lander,USA,91,Richard Clinton
+187,75012,Paris,France,79,Millard Ford
+188,59801,Butte,USA,9,Dwight Monroe
+189,75012,Paris,France,25,Theodore Coolidge
+190,44087,Münster,Germany,71,Franklin Johnson
+191,24100,Bergamo,Italy,36,Dwight Harrison
+192,68306,Mannheim,Germany,54,Andrew Grant
+193,98034,Kirkland,USA,35,Martin McKinley
+194,83720,Boise,USA,48,Bill Reagan
+195,98128,Seattle,USA,40,Ulysses Eisenhower
+196,31000,Toulouse,France,76,Grover Garfield
+197,82520,Lander,USA,29,John Adams
+198,97219,Portland,USA,10,Woodrow Coolidge
+199,59000,Lille,France,95,Martin Ford
+200,98128,Seattle,USA,88,John Pierce
+201,82520,Lander,USA,2,James Wilson
+202,13008,Marseille,France,22,Theodore Johnson
+203,4179,Leipzig,Germany,58,Rutherford Garfield
+204,83720,Boise,USA,47,John Harrison
+205,31000,Toulouse,France,75,Lyndon Johnson
+206,97219,Portland,USA,97,Ronald Hayes
+207,4179,Leipzig,Germany,73,Thomas Buchanan
+208,82520,Lander,USA,73,Bill Harding
+209,98034,Kirkland,USA,26,James McKinley
+210,59000,Lille,France,66,John Carter
+211,80805,München,Germany,55,Martin Van Buren
+212,13008,Marseille,France,19,Harry Jefferson
+213,75012,Paris,France,29,Rutherford Buchanan
+214,59000,Lille,France,64,Rutherford Clinton
+215,75012,Paris,France,73,Calvin Lincoln
+216,1307,Cunewalde,Germany,89,Theodore Clinton
+217,50739,Köln,Germany,5,Ronald Madison
+218,4179,Leipzig,Germany,19,Benjamin Pierce
+219,24100,Bergamo,Italy,36,Franklin Harrison
+220,97219,Portland,USA,0,Chester Clinton
+221,24100,Bergamo,Italy,49,Jimmy Nixon
+222,50739,Köln,Germany,99,Thomas Garfield
+223,42100,Reggio Emilia,Italy,78,Dwight Washington
+224,4179,Leipzig,Germany,68,Richard Ford
+225,99508,Anchorage,USA,19,Gerald Quincy
+226,97219,Portland,USA,91,Theodore Johnson
+227,60528,Frankfurt a.M.,Germany,9,Rutherford Lincoln
+228,60528,Frankfurt a.M.,Germany,35,Franklin Roosevelt
+229,13008,Marseille,France,57,Zachary Grant
+230,44087,Münster,Germany,30,Woodrow Jackson
+231,13008,Marseille,France,43,Abraham Johnson
+232,75012,Paris,France,58,Zachary Tyler
+233,59801,Butte,USA,43,Harry Garfield
+234,24100,Bergamo,Italy,52,Richard Adams
+235,31000,Toulouse,France,56,Woodrow Carter
+236,98128,Seattle,USA,17,Woodrow Buchanan
+237,80805,München,Germany,12,Warren Taylor
+238,44087,Münster,Germany,0,Dwight Johnson
+239,12209,Berlin,Germany,63,George McKinley
+240,24100,Bergamo,Italy,6,Jimmy Taft
+241,52066,Aachen,Germany,12,Ulysses Grant
+242,14776,Brandenburg,Germany,81,Chester Roosevelt
+243,97827,Elgin,USA,47,Benjamin Adams
+244,68306,Mannheim,Germany,1,Franklin Reagan
+245,59801,Butte,USA,61,Abraham Taft
+246,42100,Reggio Emilia,Italy,89,Jimmy Roosevelt
+247,98128,Seattle,USA,90,Millard Clinton
+248,1307,Cunewalde,Germany,60,Chester Wilson
+249,80805,München,Germany,38,George Adams
+250,75012,Paris,France,67,James Taft
+251,44087,Münster,Germany,49,Harry Truman
+252,75012,Paris,France,15,Warren Carter
+253,67000,Strasbourg,France,84,Theodore Jackson
+254,70563,Stuttgart,Germany,24,John Carter
+255,59801,Butte,USA,61,John Garfield
+256,52066,Aachen,Germany,49,George Johnson
+257,68306,Mannheim,Germany,22,Benjamin Carter
+258,24100,Bergamo,Italy,48,Richard Adams
+259,83720,Boise,USA,20,Jimmy McKinley
+260,82520,Lander,USA,50,Gerald Fillmore
+261,97219,Portland,USA,97,Woodrow Nixon
+262,1307,Cunewalde,Germany,44,Millard Coolidge
+263,97219,Portland,USA,10,Harry Reagan
+264,97403,Eugene,USA,49,William Tyler
+265,60528,Frankfurt a.M.,Germany,57,Millard Tyler
+266,44000,Nantes,France,38,Theodore Adams
+267,24100,Bergamo,Italy,10,Franklin Johnson
+268,1307,Cunewalde,Germany,55,Ulysses Clinton
+269,75012,Paris,France,38,James Arthur
+270,52066,Aachen,Germany,32,Lyndon Buchanan
+271,83720,Boise,USA,51,Theodore Truman
+272,82520,Lander,USA,25,Dwight Washington
+273,75012,Paris,France,96,Woodrow Cleveland
+274,12209,Berlin,Germany,6,Ronald Kennedy
+275,31000,Toulouse,France,50,Herbert Adams
+276,60528,Frankfurt a.M.,Germany,37,Bill Hayes
+277,82520,Lander,USA,95,Zachary Cleveland
+278,52066,Aachen,Germany,35,Rutherford Garfield
+279,68306,Mannheim,Germany,66,George Grant
+280,44087,Münster,Germany,87,Ulysses Pierce
+281,83720,Boise,USA,63,Grover Nixon
+282,51100,Reims,France,11,Millard Hoover
+283,14776,Brandenburg,Germany,32,Benjamin Buchanan
+284,10100,Torino,Italy,93,Franklin Polk
+285,68306,Mannheim,Germany,19,Andrew Arthur
+286,50739,Köln,Germany,4,Zachary Jackson
+287,59801,Butte,USA,37,Andrew McKinley
+288,78000,Versailles,France,100,Dwight Fillmore
+289,97219,Portland,USA,80,Richard Adams
+290,44087,Münster,Germany,27,James Wilson
+291,68306,Mannheim,Germany,84,Warren Clinton
+292,75016,Paris,France,83,Millard Fillmore
+293,52066,Aachen,Germany,69,Andrew Tyler
+294,80805,München,Germany,85,Grover Johnson
+295,75012,Paris,France,91,Woodrow Truman
+296,12209,Berlin,Germany,100,Lyndon McKinley
+297,75012,Paris,France,0,William Reagan
+298,68306,Mannheim,Germany,0,Harry Cleveland
+299,14776,Brandenburg,Germany,12,Benjamin Hoover
+300,31000,Toulouse,France,91,Franklin Monroe
+301,50739,Köln,Germany,2,John Garfield
+302,75016,Paris,France,40,James Clinton
+303,94117,San Francisco,USA,66,Richard Harrison
+304,69004,Lyon,France,70,William Johnson
+305,44087,Münster,Germany,12,Herbert Grant
+306,68306,Mannheim,Germany,80,Warren Monroe
+307,82520,Lander,USA,57,Abraham Harding
+308,78000,Versailles,France,46,George Quincy
+309,70563,Stuttgart,Germany,39,Lyndon McKinley
+310,75012,Paris,France,72,William Harrison
+311,70563,Stuttgart,Germany,4,Benjamin Johnson
+312,75016,Paris,France,90,Gerald Garfield
+313,87110,Albuquerque,USA,86,Calvin Taft
+314,67000,Strasbourg,France,0,Chester Tyler
+315,70563,Stuttgart,Germany,37,James Jefferson
+316,44000,Nantes,France,11,Theodore Johnson
+317,83720,Boise,USA,4,George Adams
+318,51100,Reims,France,55,Thomas Roosevelt
+319,13008,Marseille,France,13,Dwight Lincoln
+320,97219,Portland,USA,24,Harry Buchanan
+321,13008,Marseille,France,83,Calvin Quincy
+322,44087,Münster,Germany,13,Woodrow Grant
+323,70563,Stuttgart,Germany,16,Gerald Eisenhower
+324,87110,Albuquerque,USA,70,William Roosevelt
+325,75016,Paris,France,84,Gerald McKinley
+326,97219,Portland,USA,87,James Grant
+327,50739,Köln,Germany,29,James Roosevelt
+328,69004,Lyon,France,4,Rutherford Buchanan
+329,80805,München,Germany,34,Martin Polk
+330,83720,Boise,USA,29,Jimmy Johnson
+331,82520,Lander,USA,17,Martin Hoover
+332,97403,Eugene,USA,35,Lyndon Garfield
+333,68306,Mannheim,Germany,11,Jimmy Roosevelt
+334,44087,Münster,Germany,32,Ronald Van Buren
+335,82520,Lander,USA,73,George Harrison
+336,69004,Lyon,France,8,Jimmy Clinton
+337,59801,Butte,USA,93,Warren Jefferson
+338,59801,Butte,USA,30,Bill Jefferson
+339,12209,Berlin,Germany,8,Jimmy Jefferson
+340,44000,Nantes,France,39,Grover Coolidge
+341,67000,Strasbourg,France,75,Lyndon Coolidge
+342,78000,Versailles,France,47,Franklin Quincy
+343,51100,Reims,France,7,Ulysses Adams
+344,67000,Strasbourg,France,84,John Eisenhower
+345,52066,Aachen,Germany,10,Bill Coolidge
+346,83720,Boise,USA,35,George Buchanan
+347,97201,Portland,USA,67,Herbert Arthur
+348,69004,Lyon,France,74,John Hoover
+349,83720,Boise,USA,0,Harry Cleveland
+350,68306,Mannheim,Germany,49,Theodore Polk
+351,52066,Aachen,Germany,93,Franklin Wilson
+352,59000,Lille,France,0,Zachary Adams
+353,97219,Portland,USA,31,Thomas Quincy
+354,52066,Aachen,Germany,67,Bill Cleveland
+355,97403,Eugene,USA,17,Martin Johnson
+356,82520,Lander,USA,1,Richard Grant
+357,59801,Butte,USA,0,Benjamin Coolidge
+358,98034,Kirkland,USA,42,Jimmy Grant
+359,69004,Lyon,France,46,Dwight Tyler
+360,67000,Strasbourg,France,61,Andrew Coolidge
+361,59801,Butte,USA,61,George Roosevelt
+362,97827,Elgin,USA,42,Bill Ford
+363,97403,Eugene,USA,69,Gerald Pierce
+364,50739,Köln,Germany,62,Chester Reagan
+365,10100,Torino,Italy,54,Franklin Lincoln
+366,98128,Seattle,USA,56,Harry Kennedy
+367,80805,München,Germany,75,Ulysses Eisenhower
+368,67000,Strasbourg,France,99,Chester Arthur
+369,51100,Reims,France,46,Bill Taft
+370,67000,Strasbourg,France,87,Gerald Hayes
+371,67000,Strasbourg,France,49,Chester Arthur
+372,80805,München,Germany,74,Benjamin Harrison
+373,50739,Köln,Germany,1,Calvin Madison
+374,82520,Lander,USA,93,Andrew Hoover
+375,44087,Münster,Germany,8,John Clinton
+376,60528,Frankfurt a.M.,Germany,66,Ronald Cleveland
+377,12209,Berlin,Germany,66,James Harrison
+378,12209,Berlin,Germany,52,Ulysses Buchanan
+379,87110,Albuquerque,USA,88,Woodrow Ford
+380,97219,Portland,USA,39,Martin Van Buren
+381,97403,Eugene,USA,64,James Adams
+382,82520,Lander,USA,39,Benjamin Harding
+383,69004,Lyon,France,11,Theodore Ford
+384,98128,Seattle,USA,28,Gerald Hayes
+385,1307,Cunewalde,Germany,58,Dwight Kennedy
+386,94117,San Francisco,USA,85,Franklin Hoover
+387,52066,Aachen,Germany,50,Ronald Taft
+388,44087,Münster,Germany,70,William Carter
+389,13008,Marseille,France,89,Rutherford Van Buren
+390,97201,Portland,USA,70,Harry Polk
+391,51100,Reims,France,23,Bill Pierce
+392,69004,Lyon,France,20,John Quincy
+393,82520,Lander,USA,84,Zachary Garfield
+394,97219,Portland,USA,59,Millard Eisenhower
+395,83720,Boise,USA,63,Richard Polk
+396,69004,Lyon,France,48,Dwight Clinton
+397,59801,Butte,USA,8,Gerald Van Buren
+398,44000,Nantes,France,13,Theodore Madison
+399,97403,Eugene,USA,68,Richard Harrison
+400,44000,Nantes,France,1,Ronald Clinton
+401,44000,Nantes,France,81,Lyndon Grant
+402,75012,Paris,France,11,Herbert Nixon
+403,24100,Bergamo,Italy,24,Lyndon Pierce
+404,75016,Paris,France,15,Jimmy Kennedy
+405,75012,Paris,France,59,Zachary Grant
+406,42100,Reggio Emilia,Italy,80,Gerald Buchanan
+407,12209,Berlin,Germany,39,George Adams
+408,10100,Torino,Italy,43,Andrew Taylor
+409,87110,Albuquerque,USA,42,Calvin Grant
+410,50739,Köln,Germany,24,Harry Pierce
+411,50739,Köln,Germany,47,Zachary Madison
+412,82520,Lander,USA,92,Lyndon Jefferson
+413,60528,Frankfurt a.M.,Germany,71,Ulysses Johnson
+414,94117,San Francisco,USA,30,Ronald Wilson
+415,42100,Reggio Emilia,Italy,0,Benjamin Monroe
+416,1307,Cunewalde,Germany,86,Gerald Garfield
+417,31000,Toulouse,France,43,Richard Hoover
+418,78000,Versailles,France,48,Lyndon Buchanan
+419,52066,Aachen,Germany,35,Ulysses Carter
+420,69004,Lyon,France,58,George McKinley
+421,12209,Berlin,Germany,0,Gerald Lincoln
+422,60528,Frankfurt a.M.,Germany,28,Franklin Kennedy
+423,13008,Marseille,France,79,James Grant
+424,1307,Cunewalde,Germany,18,Herbert Reagan
+425,31000,Toulouse,France,33,James Jefferson
+426,24100,Bergamo,Italy,74,Jimmy Arthur
+427,52066,Aachen,Germany,55,Benjamin Eisenhower
+428,78000,Versailles,France,93,Rutherford Buchanan
+429,60528,Frankfurt a.M.,Germany,78,Woodrow Harrison
+430,97219,Portland,USA,79,Benjamin Monroe
+431,60528,Frankfurt a.M.,Germany,93,Andrew Ford
+432,42100,Reggio Emilia,Italy,48,Bill Wilson
+433,44000,Nantes,France,0,Andrew Roosevelt
+434,83720,Boise,USA,10,Zachary Tyler
+435,94117,San Francisco,USA,96,John Taft
+436,52066,Aachen,Germany,13,Theodore Buchanan
+437,60528,Frankfurt a.M.,Germany,99,John Truman
+438,50739,Köln,Germany,40,Theodore Roosevelt
+439,51100,Reims,France,44,Calvin Reagan
+440,99508,Anchorage,USA,2,Thomas Buchanan
+441,24100,Bergamo,Italy,92,Theodore Van Buren
+442,97827,Elgin,USA,14,George Johnson
+443,31000,Toulouse,France,0,Woodrow Arthur
+444,59000,Lille,France,24,John Van Buren
+445,51100,Reims,France,93,Andrew Roosevelt
+446,83720,Boise,USA,22,Benjamin Nixon
+447,97403,Eugene,USA,0,John Taft
+448,94117,San Francisco,USA,3,Martin Hayes
+449,98034,Kirkland,USA,24,Martin Wilson
+450,44000,Nantes,France,97,Theodore Tyler
+451,70563,Stuttgart,Germany,29,Thomas Taylor
+452,44087,Münster,Germany,22,George Madison
+453,44087,Münster,Germany,91,George Adams
+454,75012,Paris,France,29,Franklin Garfield
+455,44000,Nantes,France,9,Chester Washington
+456,97219,Portland,USA,96,Jimmy Taft
+457,97827,Elgin,USA,47,Herbert Nixon
+458,10100,Torino,Italy,100,Grover Hayes
+459,94117,San Francisco,USA,55,Woodrow Quincy
+460,51100,Reims,France,33,Ulysses Monroe
+461,75012,Paris,France,92,Rutherford Washington
+462,97827,Elgin,USA,21,Franklin Harrison
+463,97201,Portland,USA,90,Jimmy Eisenhower
+464,75016,Paris,France,29,Rutherford Pierce
+465,97219,Portland,USA,4,Jimmy Truman
+466,31000,Toulouse,France,10,Abraham Washington
+467,98128,Seattle,USA,15,Richard Johnson
+468,69004,Lyon,France,2,Dwight Taft
+469,51100,Reims,France,49,Chester Carter
+470,83720,Boise,USA,37,Millard Harrison
+471,4179,Leipzig,Germany,93,Martin Adams
+472,80805,München,Germany,77,Theodore Taylor
+473,1307,Cunewalde,Germany,38,William Cleveland
+474,75016,Paris,France,44,Herbert Lincoln
+475,12209,Berlin,Germany,2,Ronald Harrison
+476,14776,Brandenburg,Germany,77,Thomas Kennedy
+477,99508,Anchorage,USA,21,Lyndon Washington
+478,80805,München,Germany,60,Ronald Polk
+479,44087,Münster,Germany,92,Andrew Adams
+480,98034,Kirkland,USA,25,Andrew Tyler
+481,51100,Reims,France,95,Gerald Wilson
+482,68306,Mannheim,Germany,0,Ronald Reagan
+483,75012,Paris,France,40,James Roosevelt
+484,97219,Portland,USA,61,Lyndon Buchanan
+485,59000,Lille,France,82,William Jefferson
+486,87110,Albuquerque,USA,50,Thomas Polk
+487,83720,Boise,USA,0,Abraham Monroe
+488,4179,Leipzig,Germany,96,Harry Ford
+489,42100,Reggio Emilia,Italy,63,William Lincoln
+490,87110,Albuquerque,USA,36,Millard Hoover
+491,80805,München,Germany,73,Lyndon Adams
+492,98034,Kirkland,USA,66,Warren Hoover
+493,44000,Nantes,France,56,Ronald Hoover
+494,69004,Lyon,France,50,Gerald Adams
+495,13008,Marseille,France,51,Chester Harrison
+496,83720,Boise,USA,17,James Jackson
+497,78000,Versailles,France,93,Martin Truman
+498,69004,Lyon,France,6,Lyndon Harrison
+499,59801,Butte,USA,75,Warren Buchanan
+500,31000,Toulouse,France,34,Warren Monroe
+501,44000,Nantes,France,8,Richard Nixon
+502,67000,Strasbourg,France,34,Ulysses Fillmore
+503,50739,Köln,Germany,80,James Wilson
+504,80805,München,Germany,70,Franklin Hayes
+505,70563,Stuttgart,Germany,16,Harry McKinley
+506,60528,Frankfurt a.M.,Germany,89,John Carter
+507,97201,Portland,USA,98,Richard Reagan
+508,80805,München,Germany,70,Bill Hayes
+509,78000,Versailles,France,47,Abraham Arthur
+510,83720,Boise,USA,91,Andrew Ford
+511,99508,Anchorage,USA,18,William Hoover
+512,4179,Leipzig,Germany,93,Dwight Cleveland
+513,68306,Mannheim,Germany,55,Millard Clinton
+514,60528,Frankfurt a.M.,Germany,86,Ulysses Taft
+515,31000,Toulouse,France,15,Thomas Jackson
+516,75012,Paris,France,0,George Fillmore
+517,24100,Bergamo,Italy,70,Bill Hayes
+518,14776,Brandenburg,Germany,12,Gerald Quincy
+519,52066,Aachen,Germany,38,Grover McKinley
+520,87110,Albuquerque,USA,78,Bill Jackson
+521,97403,Eugene,USA,90,Franklin Quincy
+522,98128,Seattle,USA,18,Richard Quincy
+523,12209,Berlin,Germany,60,Bill Harrison
+524,75016,Paris,France,44,Woodrow Arthur
+525,31000,Toulouse,France,0,Gerald McKinley
+526,42100,Reggio Emilia,Italy,54,Warren Reagan
+527,60528,Frankfurt a.M.,Germany,13,Bill Jackson
+528,97219,Portland,USA,91,Harry Kennedy
+529,60528,Frankfurt a.M.,Germany,86,Thomas Clinton
+530,44000,Nantes,France,0,Bill Monroe
+531,82520,Lander,USA,0,Ronald Nixon
+532,99508,Anchorage,USA,32,Benjamin McKinley
+533,12209,Berlin,Germany,55,Chester Adams
+534,97219,Portland,USA,0,Grover Arthur
+535,87110,Albuquerque,USA,67,James Washington
+536,70563,Stuttgart,Germany,37,Martin McKinley
+537,31000,Toulouse,France,95,Jimmy Nixon
+538,97201,Portland,USA,40,Warren Reagan
+539,98128,Seattle,USA,0,Franklin Taft
+540,98034,Kirkland,USA,67,John Truman
+541,24100,Bergamo,Italy,47,Franklin Harrison
+542,52066,Aachen,Germany,85,Chester McKinley
+543,1307,Cunewalde,Germany,47,Grover Roosevelt
+544,59801,Butte,USA,64,Calvin Jackson
+545,52066,Aachen,Germany,75,Dwight Pierce
+546,98128,Seattle,USA,40,Abraham Harrison
+547,24100,Bergamo,Italy,63,Rutherford Adams
+548,75012,Paris,France,98,Woodrow Roosevelt
+549,60528,Frankfurt a.M.,Germany,48,Benjamin Reagan
+550,44087,Münster,Germany,98,Rutherford Quincy
+551,44087,Münster,Germany,41,Ulysses Cleveland
+552,52066,Aachen,Germany,1,Rutherford Truman
+553,68306,Mannheim,Germany,100,William Eisenhower
+554,60528,Frankfurt a.M.,Germany,14,Abraham Grant
+555,82520,Lander,USA,50,John Coolidge
+556,4179,Leipzig,Germany,73,Grover Roosevelt
+557,87110,Albuquerque,USA,61,Andrew Harding
+558,52066,Aachen,Germany,30,Warren Grant
+559,97219,Portland,USA,15,Ulysses Wilson
+560,83720,Boise,USA,30,Rutherford Washington
+561,97219,Portland,USA,58,Ronald Polk
+562,67000,Strasbourg,France,67,William Harrison
+563,12209,Berlin,Germany,45,George Grant
+564,68306,Mannheim,Germany,88,Jimmy Polk
+565,70563,Stuttgart,Germany,89,William Tyler
+566,13008,Marseille,France,63,Millard Roosevelt
+567,42100,Reggio Emilia,Italy,54,Millard Harrison
+568,97403,Eugene,USA,11,Thomas Buchanan
+569,97403,Eugene,USA,5,Warren Hoover
+570,51100,Reims,France,70,Chester Eisenhower
+571,70563,Stuttgart,Germany,67,Benjamin Quincy
+572,70563,Stuttgart,Germany,8,Ulysses Reagan
+573,1307,Cunewalde,Germany,3,Jimmy Ford
+574,31000,Toulouse,France,2,Lyndon Truman
+575,87110,Albuquerque,USA,97,Benjamin Ford
+576,83720,Boise,USA,9,Theodore Carter
+577,67000,Strasbourg,France,91,Grover Jefferson
+578,14776,Brandenburg,Germany,88,Harry Tyler
+579,97201,Portland,USA,6,Woodrow Hayes
+580,98128,Seattle,USA,5,Millard Hayes
+581,52066,Aachen,Germany,64,Abraham Garfield
+582,13008,Marseille,France,3,Millard Hayes
+583,94117,San Francisco,USA,70,Bill Johnson
+584,44000,Nantes,France,81,James Polk
+585,97403,Eugene,USA,53,Ulysses Cleveland
+586,31000,Toulouse,France,67,John Washington
+587,97403,Eugene,USA,19,Benjamin Johnson
+588,14776,Brandenburg,Germany,13,Theodore Jefferson
+589,59801,Butte,USA,59,William Tyler
+590,59000,Lille,France,6,Ronald Monroe
+591,78000,Versailles,France,79,Benjamin Roosevelt
+592,87110,Albuquerque,USA,57,James Kennedy
+593,42100,Reggio Emilia,Italy,54,John Wilson
+594,51100,Reims,France,25,Thomas Truman
+595,24100,Bergamo,Italy,75,Rutherford Eisenhower
+596,97403,Eugene,USA,8,William Johnson
+597,13008,Marseille,France,40,Herbert Garfield
+598,13008,Marseille,France,15,Rutherford Quincy
+599,10100,Torino,Italy,86,Ulysses Taylor
+600,87110,Albuquerque,USA,92,Thomas Wilson
+601,50739,Köln,Germany,79,Dwight Pierce
+602,50739,Köln,Germany,67,Andrew Nixon
+603,4179,Leipzig,Germany,52,Lyndon Johnson
+604,69004,Lyon,France,0,Gerald Adams
+605,97219,Portland,USA,31,Franklin Roosevelt
+606,42100,Reggio Emilia,Italy,56,Calvin Madison
+607,98128,Seattle,USA,0,Theodore Johnson
+608,4179,Leipzig,Germany,98,Warren Reagan
+609,24100,Bergamo,Italy,83,Dwight Roosevelt
+610,82520,Lander,USA,20,Benjamin Buchanan
+611,13008,Marseille,France,64,Franklin Jefferson
+612,97219,Portland,USA,75,Gerald Hoover
+613,99508,Anchorage,USA,48,Herbert Johnson
+614,59000,Lille,France,7,Ronald Washington
+615,13008,Marseille,France,38,Andrew Madison
+616,75016,Paris,France,5,Chester Cleveland
+617,67000,Strasbourg,France,21,Richard Ford
+618,50739,Köln,Germany,0,Harry Polk
+619,31000,Toulouse,France,0,Grover Pierce
+620,83720,Boise,USA,26,George Roosevelt
+621,10100,Torino,Italy,86,Bill Hayes
+622,52066,Aachen,Germany,17,Ronald Pierce
+623,97201,Portland,USA,9,Ulysses Harrison
+624,97827,Elgin,USA,100,George Hayes
+625,10100,Torino,Italy,0,Grover Tyler
+626,12209,Berlin,Germany,13,Rutherford Buchanan
+627,97403,Eugene,USA,54,Bill Fillmore
+628,31000,Toulouse,France,76,Harry Truman
+629,59000,Lille,France,0,Jimmy Pierce
+630,51100,Reims,France,24,Herbert Fillmore
+631,97403,Eugene,USA,79,Chester Adams
+632,1307,Cunewalde,Germany,81,Benjamin Carter
+633,97827,Elgin,USA,59,John Polk
+634,97219,Portland,USA,18,Rutherford Roosevelt
+635,98034,Kirkland,USA,0,Harry Roosevelt
+636,59801,Butte,USA,0,Theodore Harrison
+637,68306,Mannheim,Germany,45,Ulysses Taylor
+638,80805,München,Germany,38,Harry Reagan
+639,97827,Elgin,USA,25,Thomas Ford
+640,99508,Anchorage,USA,59,Woodrow Taft
+641,94117,San Francisco,USA,56,Thomas Quincy
+642,83720,Boise,USA,26,George Lincoln
+643,97201,Portland,USA,0,Rutherford Cleveland
+644,42100,Reggio Emilia,Italy,0,Thomas Polk
+645,50739,Köln,Germany,58,Harry Jefferson
+646,50739,Köln,Germany,6,Bill Van Buren
+647,44000,Nantes,France,14,Zachary Lincoln
+648,24100,Bergamo,Italy,97,Herbert Roosevelt
+649,67000,Strasbourg,France,2,Dwight Polk
+650,98128,Seattle,USA,63,Franklin Eisenhower
+651,75016,Paris,France,88,Herbert Buchanan
+652,97403,Eugene,USA,40,Martin Quincy
+653,1307,Cunewalde,Germany,6,Jimmy Adams
+654,4179,Leipzig,Germany,78,James Taft
+655,69004,Lyon,France,83,Jimmy Eisenhower
+656,59801,Butte,USA,54,Martin Reagan
+657,60528,Frankfurt a.M.,Germany,7,John Van Buren
+658,42100,Reggio Emilia,Italy,62,Chester Taylor
+659,83720,Boise,USA,37,Gerald Quincy
+660,98128,Seattle,USA,27,Calvin Tyler
+661,52066,Aachen,Germany,0,Lyndon Van Buren
+662,75012,Paris,France,73,Theodore Nixon
+663,44000,Nantes,France,27,Herbert Garfield
+664,44000,Nantes,France,80,Chester Harding
+665,78000,Versailles,France,88,Thomas Reagan
+666,24100,Bergamo,Italy,51,Andrew McKinley
+667,87110,Albuquerque,USA,66,John Quincy
+668,14776,Brandenburg,Germany,56,Calvin Roosevelt
+669,75012,Paris,France,72,John Coolidge
+670,99508,Anchorage,USA,42,Millard Ford
+671,75012,Paris,France,51,Chester Pierce
+672,59801,Butte,USA,97,Herbert Ford
+673,70563,Stuttgart,Germany,75,Thomas Truman
+674,99508,Anchorage,USA,4,Ulysses Roosevelt
+675,44000,Nantes,France,3,Woodrow Buchanan
+676,50739,Köln,Germany,12,Gerald Cleveland
+677,50739,Köln,Germany,98,Abraham Lincoln
+678,67000,Strasbourg,France,1,Dwight Adams
+679,44000,Nantes,France,95,Andrew Hoover
+680,42100,Reggio Emilia,Italy,87,George Tyler
+681,70563,Stuttgart,Germany,27,Rutherford Jackson
+682,67000,Strasbourg,France,41,Ulysses Johnson
+683,42100,Reggio Emilia,Italy,52,Abraham Nixon
+684,98128,Seattle,USA,31,John Grant
+685,83720,Boise,USA,6,Richard Eisenhower
+686,59000,Lille,France,4,Bill Harding
+687,60528,Frankfurt a.M.,Germany,30,Millard Taft
+688,99508,Anchorage,USA,0,Jimmy Buchanan
+689,70563,Stuttgart,Germany,36,Dwight Hoover
+690,44087,Münster,Germany,95,Rutherford Coolidge
+691,75012,Paris,France,0,Dwight Taft
+692,51100,Reims,France,82,Grover Harrison
+693,87110,Albuquerque,USA,45,Dwight Wilson
+694,98034,Kirkland,USA,49,Rutherford Harding
+695,97219,Portland,USA,0,John Fillmore
+696,69004,Lyon,France,9,Dwight Harrison
+697,67000,Strasbourg,France,50,Thomas Cleveland
+698,83720,Boise,USA,14,Benjamin Wilson
+699,60528,Frankfurt a.M.,Germany,0,Woodrow Reagan
+700,59801,Butte,USA,34,Benjamin Coolidge
+701,67000,Strasbourg,France,42,Dwight Washington
+702,97403,Eugene,USA,10,John Tyler
+703,97827,Elgin,USA,19,William Hayes
+704,70563,Stuttgart,Germany,66,Herbert Polk
+705,59000,Lille,France,85,Warren Van Buren
+706,70563,Stuttgart,Germany,91,Andrew Garfield
+707,80805,München,Germany,70,Warren Taylor
+708,31000,Toulouse,France,41,Abraham Monroe
+709,99508,Anchorage,USA,4,Abraham Coolidge
+710,75016,Paris,France,17,Bill Grant
+711,78000,Versailles,France,65,William Madison
+712,44087,Münster,Germany,36,James Ford
+713,70563,Stuttgart,Germany,78,Theodore Roosevelt
+714,60528,Frankfurt a.M.,Germany,36,Gerald Polk
+715,4179,Leipzig,Germany,97,Franklin Reagan
+716,99508,Anchorage,USA,34,Chester Reagan
+717,51100,Reims,France,22,Jimmy Roosevelt
+718,75016,Paris,France,3,Harry Jackson
+719,44000,Nantes,France,91,James Tyler
+720,99508,Anchorage,USA,21,Herbert Carter
+721,97827,Elgin,USA,70,Lyndon Nixon
+722,75016,Paris,France,12,Grover Jefferson
+723,99508,Anchorage,USA,97,Jimmy Clinton
+724,80805,München,Germany,55,Thomas Nixon
+725,99508,Anchorage,USA,38,Calvin Pierce
+726,99508,Anchorage,USA,10,Warren Pierce
+727,24100,Bergamo,Italy,34,John McKinley
+728,50739,Köln,Germany,87,Ulysses Washington
+729,75012,Paris,France,31,Ulysses Garfield
+730,52066,Aachen,Germany,39,Benjamin Ford
+731,97403,Eugene,USA,12,George Jefferson
+732,10100,Torino,Italy,13,Calvin Truman
+733,78000,Versailles,France,72,George Pierce
+734,13008,Marseille,France,48,Gerald Adams
+735,97827,Elgin,USA,8,Calvin Fillmore
+736,24100,Bergamo,Italy,62,Dwight Madison
+737,75016,Paris,France,96,Calvin Harrison
+738,52066,Aachen,Germany,45,Ulysses Washington
+739,97403,Eugene,USA,25,Ronald Cleveland
+740,59000,Lille,France,45,Gerald Washington
+741,44000,Nantes,France,24,Benjamin Buchanan
+742,98128,Seattle,USA,46,Calvin Johnson
+743,78000,Versailles,France,21,Andrew Grant
+744,44000,Nantes,France,33,Theodore Arthur
+745,83720,Boise,USA,20,James Van Buren
+746,60528,Frankfurt a.M.,Germany,55,Millard Madison
+747,44087,Münster,Germany,35,Warren Buchanan
+748,80805,München,Germany,40,Warren Taft
+749,44000,Nantes,France,23,Theodore Harrison
+750,68306,Mannheim,Germany,47,Chester McKinley
+751,75016,Paris,France,54,Thomas Adams
+752,98034,Kirkland,USA,82,Ronald Tyler
+753,14776,Brandenburg,Germany,17,Gerald Pierce
+754,68306,Mannheim,Germany,100,James Taft
+755,60528,Frankfurt a.M.,Germany,88,Ulysses Wilson
+756,50739,Köln,Germany,83,Andrew Reagan
+757,99508,Anchorage,USA,25,Jimmy Roosevelt
+758,94117,San Francisco,USA,63,James Coolidge
+759,67000,Strasbourg,France,46,Benjamin Ford
+760,67000,Strasbourg,France,57,Bill Van Buren
+761,42100,Reggio Emilia,Italy,11,Woodrow Quincy
+762,87110,Albuquerque,USA,42,Franklin Coolidge
+763,98034,Kirkland,USA,25,Millard Adams
+764,97201,Portland,USA,43,Bill Roosevelt
+765,87110,Albuquerque,USA,6,Thomas Harding
+766,78000,Versailles,France,64,Theodore Eisenhower
+767,50739,Köln,Germany,81,Warren Monroe
+768,12209,Berlin,Germany,0,George Monroe
+769,83720,Boise,USA,74,George Reagan
+770,59000,Lille,France,16,Rutherford Johnson
+771,50739,Köln,Germany,80,Warren Polk
+772,13008,Marseille,France,59,Jimmy Coolidge
+773,98034,Kirkland,USA,0,Richard Lincoln
+774,97201,Portland,USA,64,Ulysses Quincy
+775,59000,Lille,France,18,Chester Harrison
+776,68306,Mannheim,Germany,65,Grover Polk
+777,60528,Frankfurt a.M.,Germany,54,Jimmy Clinton
+778,75012,Paris,France,92,Benjamin Fillmore
+779,44000,Nantes,France,34,Andrew Jackson
+780,78000,Versailles,France,0,Thomas Polk
+781,60528,Frankfurt a.M.,Germany,3,Martin Van Buren
+782,98034,Kirkland,USA,78,Thomas Lincoln
+783,31000,Toulouse,France,85,Rutherford Buchanan
+784,1307,Cunewalde,Germany,78,Gerald Washington
+785,59801,Butte,USA,0,George Monroe
+786,97201,Portland,USA,18,Dwight Coolidge
+787,97827,Elgin,USA,0,Warren Ford
+788,78000,Versailles,France,93,Lyndon Buchanan
+789,68306,Mannheim,Germany,88,Theodore McKinley
+790,44087,Münster,Germany,0,Theodore Coolidge
+791,83720,Boise,USA,61,Grover McKinley
+792,67000,Strasbourg,France,68,Herbert Quincy
+793,97403,Eugene,USA,0,Lyndon Fillmore
+794,97219,Portland,USA,58,Chester Van Buren
+795,83720,Boise,USA,64,Lyndon McKinley
+796,97201,Portland,USA,79,Ronald Van Buren
+797,97219,Portland,USA,0,William Tyler
+798,13008,Marseille,France,20,Chester Eisenhower
+799,78000,Versailles,France,59,Ronald Harrison
+800,98034,Kirkland,USA,45,John Polk
